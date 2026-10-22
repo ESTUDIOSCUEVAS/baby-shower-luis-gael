@@ -26,3 +26,6 @@ Los metadatos están configurados para https://baby-shower-luis-gael.pages.dev/.
 
 ## Fotografías
 Se integran dos fotografías originales, sin modificar rostros ni cuerpos, mediante marcos CSS. Subir también assets/papas-luis-gael.jpg y assets/abrazo-luis-gael.jpg.
+
+## Nueva cabecera
+La cortina aparece una sola vez al inicio y se desplaza junto con la hoja. No hay encabezado fijo. Se conservan las fotos y la portada de WhatsApp.
