@@ -29,3 +29,6 @@ Se integran dos fotografías originales, sin modificar rostros ni cuerpos, media
 
 ## Nueva cabecera
 La cortina aparece una sola vez al inicio y se desplaza junto con la hoja. No hay encabezado fijo. Se conservan las fotos y la portada de WhatsApp.
+
+## Corrección de imágenes
+Las fotos, carrusel y cortinas están integrados directamente en index.html. Reemplazar index.html basta para corregir imágenes faltantes. La portada de WhatsApp sigue requiriendo assets/portada-whatsapp.jpg en el sitio.
