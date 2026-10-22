@@ -23,3 +23,6 @@ Las tipografías se descargan desde Google Fonts; si no hay conexión, se usan f
 ## Actualización
 Encabezado fijo único, hoja continua y portada para WhatsApp. Reemplaza index.html y sube assets/portada-whatsapp.jpg conservando assets/carrusel.jpg y assets/marco.jpg.
 Los metadatos están configurados para https://baby-shower-luis-gael.pages.dev/. Si tu dominio es otro, cambia las URL absolutas de og:image, og:url, twitter:image y canonical.
+
+## Fotografías
+Se integran dos fotografías originales, sin modificar rostros ni cuerpos, mediante marcos CSS. Subir también assets/papas-luis-gael.jpg y assets/abrazo-luis-gael.jpg.
