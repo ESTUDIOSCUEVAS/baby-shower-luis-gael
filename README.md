@@ -19,3 +19,7 @@ Datos incluidos: Luis Gael; sábado 21 de noviembre de 2026 (año pendiente de c
 Opcionales pendientes: nombres de los papás, número para confirmar asistencia y música. No se agregó un número ficticio.
 
 Las tipografías se descargan desde Google Fonts; si no hay conexión, se usan fuentes alternativas. Las imágenes se incluyen en assets.
+
+## Actualización
+Encabezado fijo único, hoja continua y portada para WhatsApp. Reemplaza index.html y sube assets/portada-whatsapp.jpg conservando assets/carrusel.jpg y assets/marco.jpg.
+Los metadatos están configurados para https://baby-shower-luis-gael.pages.dev/. Si tu dominio es otro, cambia las URL absolutas de og:image, og:url, twitter:image y canonical.
