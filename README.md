@@ -32,3 +32,5 @@ La cortina aparece una sola vez al inicio y se desplaza junto con la hoja. No ha
 
 ## Corrección de imágenes
 Las fotos, carrusel y cortinas están integrados directamente en index.html. Reemplazar index.html basta para corregir imágenes faltantes. La portada de WhatsApp sigue requiriendo assets/portada-whatsapp.jpg en el sitio.
+
+Ajuste móvil: restaurante centrado y despedida en una sola línea.
